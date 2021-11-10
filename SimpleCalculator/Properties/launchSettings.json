@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SimpleCalculator": {
+      "commandName": "Project",
+      "commandLineArgs": "4 6"
+    }
+  }
+}

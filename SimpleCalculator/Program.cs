@@ -6,7 +6,10 @@ namespace SimpleCalculator
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int numeroUno = Convert.ToInt32(args[0]);
+            int numeroDue = Convert.ToInt32(args[1]);
+
+            Console.WriteLine(numeroUno+numeroDue);
         }
     }
 }
